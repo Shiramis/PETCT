@@ -1,0 +1,78 @@
+{
+    "patients": [
+        {
+            "name": "",
+            "weight": "",
+            "measurement_time": "",
+            "required_activity": "",
+            "required_volume": "",
+            "measured_activity": "",
+            "measured_time": "",
+            "remaining_activity": "",
+            "measured_time_remaining": "",
+            "error": ""
+        },
+        {
+            "name": "",
+            "weight": "",
+            "measurement_time": "",
+            "required_activity": "",
+            "required_volume": "",
+            "measured_activity": "",
+            "measured_time": "",
+            "remaining_activity": "",
+            "measured_time_remaining": "",
+            "error": ""
+        },
+        {
+            "name": "",
+            "weight": "",
+            "measurement_time": "",
+            "required_activity": "",
+            "required_volume": "",
+            "measured_activity": "",
+            "measured_time": "",
+            "remaining_activity": "",
+            "measured_time_remaining": "",
+            "error": ""
+        },
+        {
+            "name": "",
+            "weight": "",
+            "measurement_time": "",
+            "required_activity": "",
+            "required_volume": "",
+            "measured_activity": "",
+            "measured_time": "",
+            "remaining_activity": "",
+            "measured_time_remaining": "",
+            "error": ""
+        },
+        {
+            "name": "",
+            "weight": "",
+            "measurement_time": "",
+            "required_activity": "",
+            "required_volume": "",
+            "measured_activity": "",
+            "measured_time": "",
+            "remaining_activity": "",
+            "measured_time_remaining": "",
+            "error": ""
+        },
+        {
+            "name": "",
+            "weight": "",
+            "measurement_time": "",
+            "required_activity": "",
+            "required_volume": "",
+            "measured_activity": "",
+            "measured_time": "",
+            "remaining_activity": "",
+            "measured_time_remaining": "",
+            "error": ""
+        }
+    ],
+    "pharmacy": [
+        {
+            "initial_activ": 

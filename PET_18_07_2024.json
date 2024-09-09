@@ -1,0 +1,27 @@
+{
+    "patients": [
+        {
+            "t": 1,
+            "i": 1,
+            "name": "kostas",
+            "weight": "50",
+            "measurement_time": "08:30",
+            "required_activity": 5.0,
+            "required_volume": "",
+            "measured_activity": "5.1",
+            "measured_time": "08:35",
+            "remaining_activity": "0.2",
+            "measured_time_remaining": "08:40",
+            "error": ""
+        }
+    ],
+    "pharmacy": [
+        {
+            "t": 1,
+            "initial_activ": "150",
+            "initial_time": "08:00",
+            "vial_volume": "13.5",
+            "rad_volume": "5.55"
+        }
+    ]
+}
